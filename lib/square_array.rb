@@ -6,4 +6,5 @@ while counter < array.length do
   new_array << new_num
   counter += 1
   end
+  return new_array
 end
